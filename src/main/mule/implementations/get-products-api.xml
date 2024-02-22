@@ -11,8 +11,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-  productID: "7522456",
-  productName: "Curso de Mulesoft 4.X",
+  productID: "9999999",
+  productName: "Curso de Mulesoft",
   productProvider: "Udemy",
   productDescription: "Curso completo de Mulesoft por Chinna"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
